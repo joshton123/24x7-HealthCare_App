@@ -44,4 +44,4 @@ The Healthcare Application is a user-friendly mobile app designed to help users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-app.git
+   git clone https://github.com/joshton123/24x7-HealthCare_App
